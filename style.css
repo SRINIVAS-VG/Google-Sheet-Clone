@@ -7,8 +7,7 @@ body{
     padding: 0;
 }
 
-/******************* Page Action Container ********************************/
-
+/* Page Action Container */
 .page-action-container{
     height: 3rem;
     background-color: #218c74;
@@ -31,8 +30,7 @@ body{
     color: #218c74;
 }
 
-/******************* Cell Props Action Container ********************************/
-
+/* Cell Props Action Container */
 .cellprops-action-container{
     height: 3rem;
     background-color: #ecf0f1;
@@ -65,7 +63,8 @@ body{
     width: 100%;
 }
 
-/******************* Formula Action Container ********************************/
+/* Formula Action Container */
+
 .formula-action-container{
     height: 2rem;
     background-color: #ecf0f1;
@@ -94,8 +93,7 @@ body{
     width: calc(100vw - 5rem - 0.7rem - 0.7rem - 0.7rem - 1.2rem);
 }
 
-/******************* Grid Action Container ********************************/
-
+/* Grid Action Container */
 .grid-action-container{
     height: calc(100vh - 11rem);
     position: relative;
@@ -153,7 +151,7 @@ body{
     outline: none;
 }
 
-/******************* Sheet Action Container ********************************/
+/* sheet action container */
 
 .sheet-action-container{
     height: 3rem;
